@@ -7,3 +7,5 @@ langserve
 fastapi
 uvicorn
 sse-starlette
+bs4
+pypdf
