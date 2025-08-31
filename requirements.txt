@@ -9,3 +9,5 @@ uvicorn
 sse-starlette
 bs4
 pypdf
+chromadb
+faiss-cpu
